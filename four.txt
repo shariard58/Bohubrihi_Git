@@ -1,10 +1,6 @@
 
-<<<<<<< HEAD
 four 
 five six seven 
 eight 
-=======
 four  twenty  
-one hundrad two hundrad five hundrad
- seven hundred 
->>>>>>> subBranch
+
