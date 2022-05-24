@@ -3,4 +3,11 @@ four
 five six seven 
 eight 
 four  twenty  
+<<<<<<< HEAD
 
+=======
+one hundrad two hundrad five hundrad
+ seven hundred 
+
+ Nothin added
+>>>>>>> subBranch
